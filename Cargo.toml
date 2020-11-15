@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "djed_self_tokenize_macro",
+    "djed_self_tokenize_trait",
+]

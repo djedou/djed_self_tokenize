@@ -1,0 +1,13 @@
+[package]
+name = "djed_self_tokenize_trait"
+version = "0.1.0"
+authors = ["Djedou <djedouarnaud.aman@gmail.com>"]
+
+[lib]
+name = "djed_self_tokenize_trait"
+
+[dependencies]
+num-traits = { version = "0.1", default_features = false }
+ordered-float = "0.5.0"
+quote = "0.3.15"
+smallvec = "0.6.0"
